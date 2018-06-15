@@ -1,9 +1,5 @@
 import java.awt.*;
-import java.awt.event.*;
-import java.awt.geom.*;
 import javax.swing.*;
-import java.io.*;
-import java.util.Scanner;
 public class dcm extends JFrame{
 	private Container c;
 	private JPanel pnl;
